@@ -1,0 +1,3 @@
+-need the correct files and so on,
+-This i am not quite sure of, i do not quite understand the concept of the staging area
+-Staging area lets you commit several files at the same time, making it easier to commit several files with a logical connection.
