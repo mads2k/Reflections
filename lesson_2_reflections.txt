@@ -3,3 +3,5 @@
 -Staging area lets you commit several files at the same time, making it easier to commit several files with a logical connection.
 
 Now i have used the tools learned to commit changes and so on. I love the staging area!! I can use it to add files according to there logical connections and commit them seperatly or together (if there is a logical connection that is!)
+
+If i would want to experiment with my code or implement new functions and capabilities it would be usefull to branch out, thus seperating the experimental code from the original. It also makes it easier to merge the two at a later stage.
