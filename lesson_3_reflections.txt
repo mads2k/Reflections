@@ -10,3 +10,7 @@ A: I want full control over which parts of my work goes online, there is no poin
 Reflection 3.3:
 Q: Describe the defferences between forks, clones, and branches. When would you use one instead of another?
 A: Forks keeps the connection with the original in the sense that it gives the original author reckognition. Clones just copies the files locally, this would be usefull when ? i dont know. Branches is used when you want to experiment or try out new functions and ideas, very usefull for when you are working together with others.
+
+Reflection 3.4:
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+A: It makes it easier to work offline
