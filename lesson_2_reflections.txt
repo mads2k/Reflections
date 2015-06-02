@@ -7,3 +7,6 @@ Now i have used the tools learned to commit changes and so on. I love the stagin
 If i would want to experiment with my code or implement new functions and capabilities it would be usefull to branch out, thus seperating the experimental code from the original. It also makes it easier to merge the two at a later stage.
 
 Diagrams help me visualize in a good way, very helpfull!!
+
+automatic merge: pros; less typing by user cons; less controll
+Manual merg: pros; massive control, sharing your code with other developers made easy, cons; typing?
