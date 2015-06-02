@@ -1,0 +1,4 @@
+Reflection 3.1:
+Q: When would you want to use a remote repository rather than keeping all your work local?
+A: I would propose that its always an advantage to use a remote repository, the reason beeing that you can collaborate with others and/or you can be certain you always have a reasonably
+updated backup awailable online should things turn to shit locally.
