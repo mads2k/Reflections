@@ -14,3 +14,7 @@ A: Forks keeps the connection with the original in the sense that it gives the o
 Reflection 3.4:
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 A: It makes it easier to work offline
+
+Reflection 3.5
+Q: How would you collaborate without using git or github? What would be easier and what would be harder?
+A: I would send an recieve updated versions of the code constantly, finding changes and updating stuff manually, this would be the hard part.It would be easier without git if the project was very small and consisted of fewer collaboratorer
