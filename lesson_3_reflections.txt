@@ -6,3 +6,7 @@ updated backup awailable online should things turn to shit locally.
 Reflection 3.2:
 Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A: I want full control over which parts of my work goes online, there is no point in updating automatically as it would be desruptive for other developers who cooperates on the same file(s).
+
+Reflection 3.3:
+Q: Describe the defferences between forks, clones, and branches. When would you use one instead of another?
+A: Forks keeps the connection with the original in the sense that it gives the original author reckognition. Clones just copies the files locally, this would be usefull when ? i dont know. Branches is used when you want to experiment or try out new functions and ideas, very usefull for when you are working together with others.
