@@ -18,3 +18,7 @@ A: It makes it easier to work offline
 Reflection 3.5
 Q: How would you collaborate without using git or github? What would be easier and what would be harder?
 A: I would send an recieve updated versions of the code constantly, finding changes and updating stuff manually, this would be the hard part.It would be easier without git if the project was very small and consisted of fewer collaboratorer
+
+Reflection 3.6
+Q: When would you want to make changes in a separate branch rather than directly in master? What benfits does each approach have?
+A: Whenever i am expirementing or working on a code where the master needs to be "pure" and in working order at any given moment. Faster implementation of new stuff VS proper quality controll and reduced downtime of the system in question.
